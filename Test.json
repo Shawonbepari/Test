@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "mandatory": true,
+  "title": "নতুন আপডেট এসেছে!",
+  "message": "অ্যাপের সর্বশেষ ভার্সন পেতে আমাদের টেলিগ্রাম চ্যানেলে যোগ দিন।",
+  "positiveText": "এখনই যান",
+  "negativeText": "পরে",
+  "telegramUrl": "https://t.me/modapphub1"
+}
