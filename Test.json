@@ -1,9 +1,7 @@
 {
-  "enabled": true,
-  "mandatory": true,
-  "title": "Update Available!",
-  "message": "Join our Telegram for latest updates.",
-  "positiveText": "Join Now",
-  "negativeText": "Later",
-  "telegramUrl": "https://t.me/modapphub1"
+  "show": true,
+  "title": "নতুন আপডেট!",
+  "message": "অ্যাপটির নতুন ভার্সন এসেছে। এখনই আপডেট করো।",
+  "button": "আপডেট করো",
+  "telegram": "https://t.me/modapphub1"
 }
