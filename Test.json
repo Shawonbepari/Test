@@ -1,10 +1,11 @@
 {
   "enabled": true,
-  "force": false,
-  "version": "1.2.0",
-  "title": "New version available",
-  "appName": "YourApp",
-  "message": "We've added new features and fixed bugs.\n- New player\n- Performance improvements",
-  "updateUrl": "https://example.com/your-app.apk",
-  "imageUrl": "https://raw.githubusercontent.com/YourUser/YourRepo/main/banner.jpg"
+  "title": "🚀 New Update Available!",
+  "message": "A brand new version is here! Enjoy improved performance, new features, and a smoother experience.",
+  "button_text_update": "Update Now",
+  "button_text_later": "Maybe Later",
+  "url": "https://t.me/modapphub1",
+  "show_dont_show_checkbox": false,
+  "force_update": false,
+  "icon_url": "https://i.imgur.com/V9vZpIr.png"
 }
