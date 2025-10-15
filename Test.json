@@ -1,7 +1,10 @@
 {
-  "show": true,
-  "title": "New Updated Available!",
-  "message": "crash fixed",
-  "button": "Update Now",
-  "telegram": "https://t.me/modapphub1"
+  "enabled": true,
+  "force": false,
+  "version": "1.2.0",
+  "title": "New version available",
+  "appName": "YourApp",
+  "message": "We've added new features and fixed bugs.\n- New player\n- Performance improvements",
+  "updateUrl": "https://example.com/your-app.apk",
+  "imageUrl": "https://raw.githubusercontent.com/YourUser/YourRepo/main/banner.jpg"
 }
